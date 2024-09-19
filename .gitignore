@@ -4,6 +4,7 @@ node_modules
 # Database
 db/app.db
 db/test.db
+render-database.txt
 
 # Environment
 .env
